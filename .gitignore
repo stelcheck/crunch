@@ -1,2 +1,4 @@
 *.o
-crnlib/crunch
+crnlib/libcrnlibD.a
+crnlib/libcrnlib.a
+bin/
